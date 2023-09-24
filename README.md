@@ -9,3 +9,7 @@ This repo is a clone of https://github.com/miguelgrinberg/flasky.
 ### Activity 2:
 
 ![Chapter 2](/screenshots/example_2_2.png)
+
+### Activity 3:
+
+![Chapter 3](/screenshots/Activity_3.png)
